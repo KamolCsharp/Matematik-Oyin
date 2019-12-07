@@ -1,0 +1,9 @@
+D:\C#_Project\Kamol_00\Kamol_00\bin\Debug\Kamol_00.exe.config
+D:\C#_Project\Kamol_00\Kamol_00\bin\Debug\Kamol_00.exe
+D:\C#_Project\Kamol_00\Kamol_00\bin\Debug\Kamol_00.pdb
+D:\C#_Project\Kamol_00\Kamol_00\obj\Debug\Kamol_00.Form1.resources
+D:\C#_Project\Kamol_00\Kamol_00\obj\Debug\Kamol_00.Properties.Resources.resources
+D:\C#_Project\Kamol_00\Kamol_00\obj\Debug\Kamol_00.csproj.GenerateResource.Cache
+D:\C#_Project\Kamol_00\Kamol_00\obj\Debug\Kamol_00.exe
+D:\C#_Project\Kamol_00\Kamol_00\obj\Debug\Kamol_00.pdb
+D:\C#_Project\Kamol_00\Kamol_00\obj\Debug\Kamol_00.csprojResolveAssemblyReference.cache
